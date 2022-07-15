@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
+  <img src="./resources/extras/logo_readme.jpg" alt="TeamDanger logo">
 </p>
 <h1 align="center">
   <b>Danger - UserBot</b>
