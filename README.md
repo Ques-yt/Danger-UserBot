@@ -8,15 +8,25 @@
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
 [![](https://img.shields.io/badge/DangerUserBot-v0.5-blue)](#)
+
 [![Stars](https://img.shields.io/github/stars/GwGYT/Danger-UserBot?style=flat-square&color=yellow)](https://github.com/GwGYT/Danger-UserBot/stargazers)
+
 [![Forks](https://img.shields.io/github/forks/GwGYT/Danger-UserBot?style=flat-square&color=orange)](https://github.com/GwGYT/Danger-UserBot/fork)
-[![Size](https://img.shields.io/github/repo-size/GwGYT/Danger-UserBot?style=flat-square&color=green)](https://github.com/GwGYT/Danger-UserBot/)   
+
+[![Size](https://img.shields.io/github/repo-size/GwGYT/Danger-UserBot?style=flat-square&color=green)](https://github.com/GwGYT/Danger-UserBot/)  
+ 
 [![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GwGYT/Danger-UserBot/graphs/commit-activity)   
+
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/GwGYT/Danger-UserBot)
+
 [![Contributors](https://img.shields.io/github/contributors/GwGYT/Danger-UserBot?style=flat-square&color=green)](https://github.com/GwGYT/Danger-UserBot/graphs/contributors)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/GwGYT/Danger-UserBot/blob/main/LICENSE)   
+
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/GwGYT/Danger-UserBot/blob/main/LICENSE)  
+ 
 [![Sparkline](https://stars.medv.io/GwGYT/Danger-UserBot.svg)](https://stars.medv.io/GwGYT/Danger-UserBot)
 ----
 
